@@ -3,5 +3,5 @@
 ## Темы
 * Система контроля версий
 
-* [ Людмила Дорошенко ](mailto:mila.doroshenko99@gmail.com)
-* [ Telegram ](https://t.me/milaa)
+[ Людмила Дорошенко ](mailto:mila.doroshenko99@gmail.com)
+[ Telegram ](https://t.me/mila99doroshenko)
