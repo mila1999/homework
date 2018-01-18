@@ -5,14 +5,13 @@
 
 ## Информация о себе:
 1. Мой родной город - ~~Москва~~ Калуга
-![](https://upload.wikimedia.org/wikipedia/commons/d/d6/Kaluga_city%2C_nowadays_%28collage%29.jpg)  
-
+![](http://comandir.com/upkeep/uploads/2017/08/kaluga_panorama.jpg.gif)   
+***
 2. Я учусь в *Высшей Школе Экономики* на 1 курсе 
 
-![](https://pp.userapi.com/c626828/v626828700/4cc8/nOuPbkHiQmc.jpg) 
-
-
-3. Мои интересы:
+![](https://pp.userapi.com/c626828/v626828700/4cc8/nOuPbkHiQmc.jpg)
+***
+#### 3. Мои интересы: 
 
  + психология
   
@@ -24,3 +23,11 @@
   
  + котята 
 ![](http://www.bestwallpapers.net.ru/private/img/cats/cats_19.10.2010_bw_022.jpg) 
+***
+#### 4. Я не люблю: ![](https://vk.com/images/emoji/D83DDC94_2x.png) 
+
+- очереди 
+- научный креационизм 
+- оливки 
+- концовку "Унесенных ветром" 
+- мемы 2014 года 
